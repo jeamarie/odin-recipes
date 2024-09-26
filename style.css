@@ -1,0 +1,14 @@
+/* style.css */
+
+.recipe-title {
+    font-family: Georgia, Garamond, serif;
+    font-size: 24px;
+    font-weight: 200px;
+    color: rgb(28, 41, 66);
+    background-color: blanchedalmond;
+}
+
+.recipe-list {
+font-family: Helvetica, Verdana, sans-serif;
+font-size: 18px;
+}
